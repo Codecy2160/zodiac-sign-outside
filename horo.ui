@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>543</width>
+    <height>420</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>30</y>
+     <width>271</width>
+     <height>16</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Most compatible sign: Sagitarrius</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>40</y>
+     <width>491</width>
+     <height>331</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>You may find yourself feeling particularly bold and confident today, Aries. Your natural leadership skills will be in full force, and you'll have the energy and drive to take on any challenge that comes your way. This is a great time to start new projects, take risks, and pursue your goals with passion and enthusiasm.
+
+However, be mindful of your tendency to be impulsive and act before thinking things through. Take a moment to consider the consequences of your actions before making any big moves. This will help you avoid any unnecessary mistakes or setbacks.
+
+In matters of the heart, you may be feeling especially passionate and romantic. This is a great time to express your feelings to that special someone and let them know how much they mean to you. But make sure to communicate clearly and listen to their needs as well.
+
+Overall, this is a powerful and exciting time for you, Aries. Embrace the opportunities that come your way and trust in your instincts to guide you towards success.</string>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>420</x>
+     <y>370</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Finish</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>310</x>
+     <y>370</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Share</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>SWOT</class>
+ <widget class="QWidget" name="SWOT">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>610</width>
+    <height>552</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>30</y>
+     <width>271</width>
+     <height>211</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Strengths:
+
+- Aries is known for their strong willpower and determination.
+- They are natural leaders who are confident and assertive.
+- Aries are energetic and enthusiastic, which makes them great at initiating new projects.
+- They are not afraid of taking risks and are always up for a challenge.
+- Aries are passionate and driven, which makes them great at pursuing their goals.</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_2">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>30</y>
+     <width>271</width>
+     <height>211</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Weaknesses:
+
+- Aries can be impulsive and quick-tempered, which can lead to rash decisions.
+- They can be selfish and overly competitive, which can strain their relationships with others.
+- Aries can struggle with patience and tend to want immediate results.
+- They may have a tendency to overlook details in their haste to get things done.
+- Aries can become easily bored with routine tasks and may struggle with following through on projects.</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_3">
+   <property name="geometry">
+    <rect>
+     <x>30</x>
+     <y>270</y>
+     <width>271</width>
+     <height>251</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Opportunities:
+
+- Aries can take advantage of their natural leadership skills to advance their careers and take on leadership positions.
+- They can use their passion and energy to pursue new hobbies and interests.
+- Aries can focus on developing patience and attention to detail, which can help them succeed in projects that require these skills.
+- They can use their competitive nature to motivate themselves and improve their skills.
+- Aries can explore opportunities for adventure and travel, which aligns with their adventurous nature.</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>320</x>
+     <y>270</y>
+     <width>271</width>
+     <height>211</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Threats:
+
+- Aries can be prone to burnout due to their high energy levels and tendency to take on too much.
+- They may struggle to work collaboratively with others, which can hinder their progress.
+- Aries may face challenges in situations where they are not in control or are required to follow someone else's lead.
+- They can be perceived as aggressive or intimidating, which can negatively impact their relationships with others.
+- Aries may struggle with adapting to change, which can limit their opportunities for growth and development.</string>
+   </property>
+   <property name="alignment">
+    <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+   </property>
+   <property name="wordWrap">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>490</x>
+     <y>510</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Continue</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

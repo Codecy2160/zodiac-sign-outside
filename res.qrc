@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="z_img" lang="zodiacImg">
+    <file>aquarius.png</file>
+  </qresource>
+</RCC>
